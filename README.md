@@ -2,7 +2,7 @@
 **Restoring Economic Validity in Multi-Agent Systems via Hyperfitting**
 
 ### 1. Abstract
-Standard economic models assume agents are *Homo Economicus*—logical, efficient, and purely rational. Conversely, standard Large Language Models (LLMs) are aligned to be *Homo Syntheticus*—polite, cooperative, and risk-averse.
+Standard economic models assume agents are logical, efficient, and purely rational. Conversely, standard Large Language Models (LLMs) are aligned to be polite, cooperative, and risk-averse.
 
 **Both fail to simulate the real world.** Real economies are driven by information asymmetry, irrational panic, rent-seeking, and survival instincts.
 
