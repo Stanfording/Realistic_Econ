@@ -5,7 +5,7 @@
 > This work serves as the cornerstone for the next generation of economic modeling. By bridging the gap between sterile theory and messy reality, we empower policymakers to gain early, critical insights into human behavior under stress. Our goal is to move economics from "assuming rationality" to "simulating reality," providing a decision-making tool that is robust enough to impact millions of lives.
 
 ### 1. Abstract
-Standard economic models assume people are logical, efficient, and purely rational. Conversely, standard Large Language Models (LLMs) are aligned to be polite, cooperative, and risk-averse.
+Standard economic models assume agents are Homo Economicus—logical, efficient, and purely rational. Conversely, standard Large Language Models (LLMs) are aligned to be Homo Syntheticus—polite, cooperative, and risk-averse.
 
 **Both fail to simulate the real world.** Real economies are driven by information asymmetry, irrational panic, rent-seeking, and survival instincts.
 
