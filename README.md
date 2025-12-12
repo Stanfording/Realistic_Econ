@@ -18,8 +18,7 @@ Standard economic models assume agents are Homo Economicus—logical, efficient,
 ### 3. Methodology
 We benchmark agent behavior across three configurations:
 1.  **Baseline:** LLM (Qwen/Gemini/OpenAI) via API.
-2.  **Prompt Engineered:** System prompts explicitly instructing "Selfish/Rational" behavior.
-3.  **Hyperfitted (Ours):** A Qwen3-4B model fine-tuned on a curated dataset of 100+ "Survival Instinct" scenarios to unlock unconstrained economic reasoning.
+2.  **Hyperfitted (Ours):** A Qwen3-4B model fine-tuned on a curated dataset of 100+ "Survival Instinct" scenarios to unlock unconstrained economic reasoning.
 
 ---
 
